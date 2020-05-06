@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+xre/.vs/
+xre/xre/xre.vcxproj.filters
+xre/xre/xre.vcxproj.user
